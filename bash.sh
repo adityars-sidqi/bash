@@ -1,1 +1,1 @@
-echo "<h1> testing prebuild + build</h1>" > index.html
+echo "<h1> testing prebuild + build + adit ganteng</h1>" > index.html
